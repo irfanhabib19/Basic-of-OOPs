@@ -36,7 +36,7 @@ public class access_modifier{
 
     
     public static void main(String[] args) {
-        ExampleClass example = new ExampleClass(1, 2, 3, 4);
+        access_modifire example = new access_modifire(1, 2, 3, 4);
 
         
         System.out.println("Accessing all variables:");
